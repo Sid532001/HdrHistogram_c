@@ -13,7 +13,7 @@ implementation.  The current supported features are:
 * Histogram serialisation (encoding version 1.2, decoding 1.0-1.2)
 * Reader/writer phaser and interval recorder
 
-Features not supported, but planned
+Features are not supported, but planned
 
 * Auto-resizing of histograms
 
